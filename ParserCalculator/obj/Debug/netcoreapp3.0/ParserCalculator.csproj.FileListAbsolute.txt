@@ -1,0 +1,11 @@
+C:\Users\Юрий\source\repos\ParserCalculator\ParserCalculator\bin\Debug\netcoreapp3.0\ParserCalculator.exe
+C:\Users\Юрий\source\repos\ParserCalculator\ParserCalculator\bin\Debug\netcoreapp3.0\ParserCalculator.deps.json
+C:\Users\Юрий\source\repos\ParserCalculator\ParserCalculator\bin\Debug\netcoreapp3.0\ParserCalculator.runtimeconfig.json
+C:\Users\Юрий\source\repos\ParserCalculator\ParserCalculator\bin\Debug\netcoreapp3.0\ParserCalculator.runtimeconfig.dev.json
+C:\Users\Юрий\source\repos\ParserCalculator\ParserCalculator\bin\Debug\netcoreapp3.0\ParserCalculator.dll
+C:\Users\Юрий\source\repos\ParserCalculator\ParserCalculator\bin\Debug\netcoreapp3.0\ParserCalculator.pdb
+C:\Users\Юрий\source\repos\ParserCalculator\ParserCalculator\obj\Debug\netcoreapp3.0\ParserCalculator.csprojAssemblyReference.cache
+C:\Users\Юрий\source\repos\ParserCalculator\ParserCalculator\obj\Debug\netcoreapp3.0\ParserCalculator.AssemblyInfoInputs.cache
+C:\Users\Юрий\source\repos\ParserCalculator\ParserCalculator\obj\Debug\netcoreapp3.0\ParserCalculator.AssemblyInfo.cs
+C:\Users\Юрий\source\repos\ParserCalculator\ParserCalculator\obj\Debug\netcoreapp3.0\ParserCalculator.dll
+C:\Users\Юрий\source\repos\ParserCalculator\ParserCalculator\obj\Debug\netcoreapp3.0\ParserCalculator.pdb
