@@ -9,7 +9,7 @@ namespace ParserCalculator
     {
         static void Main(string[] args)
         {
-            string expression = "12* 123/-(-5 + 2)";
+            string expression = "12* 123/-(-5 + 2)+11";
             
             double result = Parser.process(expression);
             Console.WriteLine(result);
